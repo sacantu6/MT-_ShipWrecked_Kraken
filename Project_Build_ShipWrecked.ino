@@ -50,3 +50,4 @@ void loop() {
 
 lastButtonAState = buttonAState;
 lastButtonBState = buttonBState;
+//switch between two led's blue and red?? as ambiant back lighting red signaling attack?
